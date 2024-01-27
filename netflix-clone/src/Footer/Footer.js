@@ -1,0 +1,62 @@
+import React from 'react'
+import '../Footer/Footer.css'
+import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
+import InstagramIcon from '@mui/icons-material/Instagram';
+import YouTubeIcon from '@mui/icons-material/YouTube';
+import TwitterIcon from '@mui/icons-material/Twitter';
+const Footer = () => {
+  return (
+    <div className='footer_outer_wrapper'>
+      <div className='footer_inner_wrapper'>
+<div className="footer_icons">
+<FacebookOutlinedIcon/>
+<InstagramIcon />
+<TwitterIcon/>
+<YouTubeIcon />
+
+</div >
+<div className="footer_data">
+  <div>
+    <ul>
+      <li>Audio Description </li>
+      <li> Investor Relation</li>
+      <li>Privacy</li>
+      <li>Contact Us</li>
+    </ul>
+  </div>
+  <div className='desc'>
+    <ul>
+      <li>Help Center</li>
+      <li>Jobs</li>
+      <li>Legal Notice</li>
+      <li>Do Not Sell or Share My Personal<br/> Information</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>Gift Cards </li>
+      <li>Netflix Shop</li>
+      <li>Cookie Preferences</li>
+      <li>Ad choices</li>
+    </ul>
+  </div>
+  <div className='desc1'>
+    <ul>
+      <li>Media center </li>
+      <li> Terms Of Use</li>
+      <li>Corporate information</li>
+    </ul>
+  </div>
+</div>
+<div className="service_code">
+  <p>Service code</p>
+</div>
+<div className="copy_write">
+  &copy; 1997-2024 Netflix, Inc.
+</div>
+      </div>
+    </div>
+  )
+}
+
+export default Footer
