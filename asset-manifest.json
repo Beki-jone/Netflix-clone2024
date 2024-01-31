@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Beki-jone/Netflix-clone2024/static/css/main.966bba8a.css",
+    "main.js": "/Beki-jone/Netflix-clone2024/static/js/main.ad3d7fe3.js",
+    "static/media/logo.png": "/Beki-jone/Netflix-clone2024/static/media/logo.303904f75553a51bbf31.png",
+    "index.html": "/Beki-jone/Netflix-clone2024/index.html",
+    "main.966bba8a.css.map": "/Beki-jone/Netflix-clone2024/static/css/main.966bba8a.css.map",
+    "main.ad3d7fe3.js.map": "/Beki-jone/Netflix-clone2024/static/js/main.ad3d7fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966bba8a.css",
+    "static/js/main.ad3d7fe3.js"
+  ]
+}
